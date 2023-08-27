@@ -1,4 +1,4 @@
-# 💫 About Me:
+     # 💫 About Me:
 🔭 I’m currently working on marqNetwork | online freelancing platform<br>👯 I’m looking to collaborate on real word project<br>🤝 I’m looking for help with OpenSource Projects<br>🌱 I’m currently learning mern stack <br>💬 Ask me about development <br>⚡ Fun fact i am lazy but smart
 
 
